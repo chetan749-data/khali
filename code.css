@@ -1,0 +1,15 @@
+body{
+background-image:scree;
+}
+.supp{
+    padding: 80px 40px 40px 10px;
+    background-color:pink;
+    width: auto;
+    height: 200px;
+    background: url("https://images-na.ssl-images-amazon.com/images/I/61WFKcRZd2L._SL1500_.jpg");
+    background-position: 100%;
+    
+}
+.sent{
+    font-weight:20px;
+}
